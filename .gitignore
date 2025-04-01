@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.lo
+*.elf
+*.gcda
+*.gcno
+
+*.exe      
+*.out
+
+14*
